@@ -1,0 +1,103 @@
+body {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  background-color: hsl(212, 45%, 89%);
+  font-size: 1rem;
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+}
+
+.qrComponent {
+  display: flex;
+  flex-flow: column;
+
+  width: 30%;
+  height: 50%;
+  padding: 0.8rem;
+  margin: 4rem auto;
+
+  background-color: hsl(0, 0%, 100%);
+  text-align: center;
+  border-radius: 0.8rem;
+}
+
+img {
+  width: 100%;
+  margin-bottom: 0.4rem;
+  border-radius: 0.8rem;
+}
+
+.scanMessage {
+  width: 90%;
+  color: hsl(220, 15%, 55%);
+  margin: auto;
+  margin-bottom: 0.9rem;
+}
+
+.attribution {
+  font-size: 1.5rem;
+  text-align: center;
+  margin-bottom: 2rem
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+@media screen and (max-width: 1442px) {
+  .qrComponent {
+    padding: 0.8rem;
+    padding-bottom: 1.8rem;
+    margin: 4rem auto;
+
+    background-color: hsl(0, 0%, 100%);
+  }
+
+  .scanMessage {
+    margin-top: 0.5rem;
+  }
+
+  .attribution {
+    font-size: 1.3rem;
+    font-weight: 500;
+    margin-bottom: 2rem;
+  }
+}
+
+@media screen and (max-width: 905px) {
+  .qrComponent {
+    width: 45%;
+    box-shadow: 0 0px 15px 0 rgba(0, 0, 0, 0.1);
+    margin-bottom: 3rem;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+  }
+  .scanMessage {
+    margin-top: 0rem;
+  }
+
+  .attribution {
+    font-size: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+
+@media screen and (max-width: 495px) {
+  .qrComponent {
+    width: 70%;
+  }
+
+  h2 {
+    font-size: 1.2rem;
+  }
+  .scanMessage {
+    margin-top: 0rem;
+  }
+
+  .attribution {
+    font-size: 1rem;
+    margin-bottom: 2rem;
+  }
+}

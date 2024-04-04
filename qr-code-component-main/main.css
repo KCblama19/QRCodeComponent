@@ -22,6 +22,10 @@ body {
   border-radius: 0.8rem;
 }
 
+h1 {
+  font-size: 1.3rem;
+}
+
 img {
   width: 100%;
   margin-bottom: 0.4rem;
@@ -71,7 +75,7 @@ img {
     margin-bottom: 3rem;
   }
 
-  h2 {
+  h1 {
     font-size: 1.3rem;
   }
   .scanMessage {
@@ -89,7 +93,7 @@ img {
     width: 70%;
   }
 
-  h2 {
+  h1 {
     font-size: 1.2rem;
   }
   .scanMessage {

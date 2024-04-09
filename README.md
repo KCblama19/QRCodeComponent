@@ -22,7 +22,7 @@ This project is to test some of the most basic aspects of HTML and CSS, it is ma
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./qr-code-component-main/images/screenshot.png)
 
 ### Links
 
@@ -38,7 +38,7 @@ This project is to test some of the most basic aspects of HTML and CSS, it is ma
 
 ### What I learned
 
-It has a bit itimidating how small project like this took most of my mind power, the reason being I haven't code with HTML and CSS for over a year or two before taking on this project and I have to recap and do some researches to get things in order.
+It was a bit intimidating how small project like this took most of my mind power, the reason being, I haven't code with HTML and CSS for over a year or two and I have to recap and do some researches to get things in order.(It was amazing, going back to old resources).
 
 Overall it was amazing, thanks to frontend Mentor
 
@@ -48,7 +48,7 @@ I'm looking forward to mastering the advanced concepts when it come to Responsiv
 
 ### Useful resources
 
-- [Resource 1](https://www.w3schools.com) - This helped me with reawakining my memory of flexbox and media queries. I really liked how it came in handful.
+- [Resource 1](https://www.w3schools.com) - This helped me with re-awakining my memory of flexbox and media queries. I really liked how it came in handful.
 
 ## Author
 

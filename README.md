@@ -22,7 +22,7 @@ This project is to test some of the most basic aspects of HTML and CSS, it is ma
 
 ### Screenshot
 
-![Project Screenshot](./screenshot.png)
+![Project Screenshot](./qr-code-component-main/screenshot.png)
 
 ### Links
 
